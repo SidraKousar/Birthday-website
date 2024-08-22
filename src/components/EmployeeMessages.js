@@ -2,14 +2,13 @@ import React from 'react';
 import { VStack, Box, Text } from '@chakra-ui/react';
 
 const employeeMessages = [
-  { name: "Alice", message: "Happy Birthday! Hope you have an amazing day!" },
-  { name: "Bob", message: "Wishing you a year full of success and happiness!" },
-  { name: "Charlie", message: "Happy Birthday! Thanks for being an awesome boss!" },
-  { name: "David", message: "May your day be filled with joy and laughter. Happy Birthday!" },
-  { name: "Eve", message: "Cheers to another year of greatness. Happy Birthday!" },
-  { name: "Frank", message: "Happy Birthday! Grateful for your guidance and support." },
-  { name: "Grace", message: "Wishing you a fantastic birthday and a wonderful year ahead!" },
-  { name: "Heidi", message: "Happy Birthday! You inspire us every day. Enjoy your special day!" },
+  { name: "Gul Muhammad", message: "Happy Birthday, Alexander! Your leadership and vision inspire us daily. Wishing you a year filled with success and happiness. Enjoy your special day!" },
+  { name: "Tanveer Abbas", message: "Happy Birthday!🎉Even in my short time here, your transparent, flexible and supportive leadership has made a strong impression🌟Wishing you a great day and a successful year ahead🥳🍰I look forward to contributing to the team under your guidance" },
+  { name: "Hassaan Ahmad", message: "Happy Birthday! Thanks for being an awesome boss!" },
+  { name: "Sufyan Arshad", message: "May your day be filled with joy and laughter. Happy Birthday!" },
+  { name: "Fatima Shabbir", message: "Wishing you a very Happy Birthday ✨Even though I have only been here from few days, I have already seen how supportive, kind, and generous you are. I feel fortunate to be part of your team and look forward to learning and growing under your leadership✨. I wish this year brings you as much joy and success as you bring to those around you.Have a wonderful day!✨🎈" },
+  { name: "Aroosa Adil", message: "Happy Birthday! Grateful for your guidance and support." },
+  { name: "Sidra Naseem", message: "Happy Birthday! Wishing you a fantastic day and a year ahead filled with happiness and success. Thanks for being an awesome boss and making work so much fun!✨🎈" },
 ];
 
 function EmployeeMessages() {
